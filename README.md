@@ -6,7 +6,7 @@ This mod requires Forge 1.8.9 which can be downloaded at https://files.minecraft
 
 Here is also a quick tutorial on how to install forge 1.8.9 https://www.youtube.com/watch?v=Rc6Kv1xkqpo
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/975147762142298122/979228792344150026/DungeonRoomsSync-1.8.9.jar)
+This side mod can be downloaded [HERE]()
 
 ### Why is this useful?
 Doing dungeons will be much easier with this mod becaus
