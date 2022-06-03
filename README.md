@@ -12,7 +12,6 @@ This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/97
 Doing dungeons will be much easier with this mod because going for secrets that have already been done makes the dungeon take longer
 
 ### How to use
-When in a dungeon do /sync (username) (username) (username) (username) then it would send a request to all those players to accept.
-When the players accept, the secrets should be synced
+When in a dungeon all secrets should already be synced with all players that have the mod too
 
 
