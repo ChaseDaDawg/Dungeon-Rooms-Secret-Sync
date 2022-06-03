@@ -6,10 +6,10 @@ This mod requires Forge 1.8.9 which can be downloaded at https://files.minecraft
 
 Here is also a quick tutorial on how to install forge 1.8.9 https://www.youtube.com/watch?v=Rc6Kv1xkqpo
 
-This side mod can be downloaded [HERE]()
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/975147762142298122/982075654478626836/DungeonSync-1.8.9.jar)
 
 ### Why is this useful?
-Doing dungeons will be much easier with this mod becaus
+Doing dungeons will be much easier with this mod because going for secrets that have already been done makes the dungeon take longer
 
 ### How to use
 When in a dungeon do /sync (username) (username) (username) (username) then it would send a request to all those players to accept.
